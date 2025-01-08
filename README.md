@@ -1,4 +1,6 @@
 # lesson_1
 
-helloW!!
+helloW!
+this is the first lesson!!
+
 this is the first lesson!!
